@@ -8,7 +8,7 @@ Engagement-level UGV Simulator for Cyber Mission Assessment
 - Enabled mission impact analysis of UGV under cyber effects
 
 - Simulator Execution Screen  
-  ![Simulator Execution Screen](..images/ugv1.png)
+  ![Simulator Execution Screen](images/ugv1.png)
 
 - Simulation Results  
   ![Simulation Results](images/ugv2.png)
